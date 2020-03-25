@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "fonts.css",
+	"sources": [
+		"../scss/fonts.scss"
+	],
+	"sourcesContent": [
+		"@font-face {\r\n  font-family: Raleway-regular;\r\n  src: url(\"../fonts/Raleway/Raleway-Regular.ttf\");\r\n}\r\n\r\n@font-face {\r\n  font-family: Raleway-bold;\r\n  src: url(\"../fonts/Raleway/Raleway-SemiBold.ttf\");\r\n}\r\n\r\n$Raleway-regular: Raleway-regular;\r\n$Raleway-bold: Raleway-bold;"
+	],
+	"names": [],
+	"mappings": "AAAA,UAAU;EACR,WAAW,EAAE,eAAe;EAC5B,GAAG,EAAE,2CAA2C;;;AAGlD,UAAU;EACR,WAAW,EAAE,YAAY;EACzB,GAAG,EAAE,4CAA4C"
+}

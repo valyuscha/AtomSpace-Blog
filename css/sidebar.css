@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* line 3, D:/Acer Extenza 5620/Диск D/valentina/Atom Space/My project/Blog/scss/sidebar.scss */
+.sidebar {
+  width: 418px;
+}
+
+/* line 7, D:/Acer Extenza 5620/Диск D/valentina/Atom Space/My project/Blog/scss/sidebar.scss */
+.sidebar__person_img {
+  width: 100%;
+}
+
+/* line 10, D:/Acer Extenza 5620/Диск D/valentina/Atom Space/My project/Blog/scss/sidebar.scss */
+.sidebar__person_img img {
+  width: 100%;
+}
+
+/*# sourceMappingURL=sidebar.css.map */

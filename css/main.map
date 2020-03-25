@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"../scss/main.scss",
+		"../scss/mainPosts.scss"
+	],
+	"sourcesContent": [
+		"@import \"mainPosts\";",
+		"//0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19\r\n\r\n.posts {\r\n  width: 867px;\r\n\r\n  &__item {\r\n    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2);\r\n\r\n    &_photo {\r\n      width: 100%;\r\n\r\n      img {\r\n        width: 100%;\r\n      }\r\n    }\r\n\r\n    &_body {\r\n      padding: 15px;\r\n    }\r\n  }\r\n}"
+	],
+	"names": [],
+	"mappings": ";;ACEA,AAAA,MAAM,CAAC;EACL,KAAK,EAAE,KAAK;CAiBb;;;AAfE,AAAD,YAAO,CAAC;EACN,UAAU,EAAE,CAAC,CAAC,GAAG,CAAC,IAAI,CAAC,CAAC,CAAC,kBAAe;CAazC;;;AAXE,AAAD,kBAAO,CAAC;EACN,KAAK,EAAE,IAAI;CAKZ;;;AANA,AAGC,kBAHK,CAGL,GAAG,CAAC;EACF,KAAK,EAAE,IAAI;CACZ;;;AAGF,AAAD,iBAAM,CAAC;EACL,OAAO,EAAE,IAAI;CACd"
+}

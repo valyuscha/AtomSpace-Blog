@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "extends.css",
+	"sources": [
+		"../scss/extends.scss"
+	],
+	"sourcesContent": [
+		"%flex {\r\n  display: flex;\r\n  justify-content: space-between;\r\n  flex-wrap: wrap;\r\n}"
+	],
+	"names": [],
+	"mappings": ""
+}

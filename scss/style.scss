@@ -1,0 +1,25 @@
+@import "fonts";
+@import "colors";
+@import "extends";
+
+@import "header";
+@import "mainPosts";
+@import "sidebar";
+@import "footer.scss";
+
+body {
+  font-family: $Raleway-regular, sans-serif;
+  background: $grey;
+  color: $black;
+}
+
+.container {
+  width: 97.7%;
+  margin: 0 auto;
+}
+
+main {
+  .container {
+    @extend %flex;
+  }
+}

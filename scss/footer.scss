@@ -1,0 +1,55 @@
+footer {
+  background: rgba(0, 0, 0, .6);
+  padding: 45px 15px;
+
+  .change-page {
+    width: 210px;
+    @extend %flex;
+
+    .change-page {
+      &__prev {
+        a {
+          padding: 12px 24px;
+          background: rgba(0, 0, 0, .3);
+          color: rgba(255, 255, 255, .3);
+          text-decoration: none;
+          outline: none;
+
+          &:hover {
+            color: rgba(0, 0, 0, .4);
+            background: rgba(255, 255, 255, .2);
+          }
+        }
+      }
+
+      &__next {
+        a {
+          padding: 12px 24px;
+          color: $white;
+          background: $black;
+          text-decoration: none;
+          outline: none;
+
+          &:hover {
+            color: $black;
+            background: rgba(255, 255, 255, .7);
+          }
+        }
+      }
+    }
+  }
+
+  .powerd-by {
+    padding: 50px 0 10px;
+
+    p {
+      color: $white;
+      font-size: 15px;
+
+      a {
+        color: $white;
+        outline: none;
+      }
+    }
+  }
+}

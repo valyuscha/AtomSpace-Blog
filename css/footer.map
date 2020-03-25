@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "footer.css",
+	"sources": [
+		"../scss/footer.scss"
+	],
+	"sourcesContent": [
+		"footer {\r\n  background: rgba(0, 0, 0, .6);\r\n  padding: 45px 15px;\r\n\r\n  .change-page {\r\n    width: 205px;\r\n\r\n    .change-page__prev {\r\n      a {\r\n        padding: 12px 24px;\r\n        background: rgba(0, 0, 0, .3);\r\n        color: rgba(255, 255, 255, .3);\r\n        text-decoration: none;\r\n\r\n        &:hover {\r\n          color: rgba(0, 0, 0, .3);\r\n          background: rgba(255, 255, 255, .3);\r\n        }\r\n      }\r\n    }\r\n  }\r\n}"
+	],
+	"names": [],
+	"mappings": ";;AAAA,AAAA,MAAM,CAAC;EACL,UAAU,EAAE,kBAAiB;EAC7B,OAAO,EAAE,SAAS;CAmBnB;;;AArBD,AAIE,MAJI,CAIJ,YAAY,CAAC;EACX,KAAK,EAAE,KAAK;CAeb;;;AApBH,AAQM,MARA,CAIJ,YAAY,CAGV,kBAAkB,CAChB,CAAC,CAAC;EACA,OAAO,EAAE,SAAS;EAClB,UAAU,EAAE,kBAAiB;EAC7B,KAAK,EAAE,wBAAuB;EAC9B,eAAe,EAAE,IAAI;CAMtB;;;AAlBP,AAcQ,MAdF,CAIJ,YAAY,CAGV,kBAAkB,CAChB,CAAC,AAME,MAAM,CAAC;EACN,KAAK,EAAE,kBAAiB;EACxB,UAAU,EAAE,wBAAuB;CACpC"
+}

@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* line 3, D:/Acer Extenza 5620/Диск D/valentina/Atom Space/My project/Blog/scss/mainPosts.scss */
+.posts {
+  width: 867px;
+}
+
+/* line 6, D:/Acer Extenza 5620/Диск D/valentina/Atom Space/My project/Blog/scss/mainPosts.scss */
+.posts__item {
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* line 9, D:/Acer Extenza 5620/Диск D/valentina/Atom Space/My project/Blog/scss/mainPosts.scss */
+.posts__item_photo {
+  width: 100%;
+}
+
+/* line 12, D:/Acer Extenza 5620/Диск D/valentina/Atom Space/My project/Blog/scss/mainPosts.scss */
+.posts__item_photo img {
+  width: 100%;
+}
+
+/* line 17, D:/Acer Extenza 5620/Диск D/valentina/Atom Space/My project/Blog/scss/mainPosts.scss */
+.posts__item_body {
+  padding: 15px;
+}
+
+/*# sourceMappingURL=mainPosts.css.map */
